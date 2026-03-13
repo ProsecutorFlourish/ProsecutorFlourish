@@ -82,4 +82,3 @@ Command-line tools that simplify daily development workflows.
 
 * GitHub: https://github.com/ProsecutorFlourish
 * Email: [your-email@example.com](mailto:your-email@example.com)
-* Linke
