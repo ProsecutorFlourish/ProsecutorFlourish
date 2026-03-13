@@ -1,54 +1,86 @@
-# Hi there! 👋 I'm ProsecutorFlourish
+# 👋 Hi there! 
 
-I'm a passionate developer who loves **Python, Git, Bash**, and automating workflows.  
-I enjoy solving problems, learning new technologies, and contributing to open-source projects.
+🚀 **Software Developer | Automation Enthusiast | Open‑Source Explorer**
 
----
-
-## 💻 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProsecutorFlourish&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProsecutorFlourish&layout=compact&theme=radical)
+Welcome to my GitHub profile! I'm passionate about building tools, automating workflows, and experimenting with new technologies.
+I enjoy creating efficient solutions, learning modern development practices, and contributing to innovative projects.
 
 ---
 
-## 🛠 Technologies & Tools
+# 🚀 About Me
 
-- **Languages:** Python, Bash, JavaScript, HTML/CSS  
-- **Version Control:** Git, GitHub  
-- **DevOps & Automation:** Docker, CI/CD, GitHub Actions  
-- **Databases:** SQLite, PostgreSQL  
-- **Other Skills:** Web scraping, APIs, CLI tools
-
----
-
-## 🔥 Projects
-
-- [GitHub Activity Script](https://github.com/ProsecutorFlourish/git-activity) – Automate GitHub commits and simulate activity  
-- [Portfolio Website](https://github.com/ProsecutorFlourish/portfolio) – Personal portfolio with projects showcase  
-- [Python Automation Tools](https://github.com/ProsecutorFlourish/automation) – Scripts for daily productivity and automation  
-- [Open Source Contributions](https://github.com/ProsecutorFlourish?tab=repositories&q=&type=source) – Selected contributions to popular repositories  
+* 💻 Focused on **Python, automation, and backend development**
+* ⚙️ Passionate about **scripting, DevOps tools, and productivity systems**
+* 🌍 Interested in **open-source collaboration**
+* 📚 Constantly learning **new programming languages and frameworks**
+* 🧠 Always exploring ways to **optimize and automate workflows**
 
 ---
 
-## 📫 Connect with Me
+# 📊 GitHub Activity
 
-- [LinkedIn](https://linkedin.com/in/ProsecutorFlourish)  
-- [Telegram](https://t.me/ProsecutorFlourish)  
-- [Twitter](https://twitter.com/ProsecutorFlourish)  
-- [Email](mailto:ProsecutorFlourish@example.com)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProsecutorFlourish\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=ProsecutorFlourish\&theme=tokyonight\&hide_border=true)
 
-## 🌱 Currently Learning
-
-- Advanced Python frameworks and libraries  
-- Cloud development (AWS/GCP)  
-- CI/CD pipelines and automation best practices  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProsecutorFlourish\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
-## 💡 Fun Fact
+# 🛠 Tech Stack
 
-I love creating scripts that save time and make repetitive tasks enjoyable.  
-Coding is not just work — it's my playground. 🕹
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
+
+---
+
+# 🔥 Featured Projects
+
+### ⚡ Automation Toolkit
+
+Collection of scripts designed to automate repetitive development tasks and improve productivity.
+
+### 🧠 Algorithm Playground
+
+Repository where I experiment with algorithms, data structures, and problem solving.
+
+### 🌐 Web Experiments
+
+Small web-based tools and experiments built with modern technologies.
+
+### 🛠 CLI Utilities
+
+Command-line tools that simplify daily development workflows.
+
+---
+
+# 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ProsecutorFlourish\&theme=tokyo-night)
+
+---
+
+# 🌱 Currently Learning
+
+* Advanced Python development
+* Cloud technologies (AWS / Docker)
+* System design & scalable architectures
+* Automation pipelines
+
+---
+
+# 📫 Connect With Me
+
+* GitHub: https://github.com/ProsecutorFlourish
+* Email: [your-email@example.com](mailto:your-email@example.com)
+* Linke
