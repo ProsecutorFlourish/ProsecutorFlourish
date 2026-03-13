@@ -21,8 +21,6 @@ I enjoy creating efficient solutions, learning modern development practices, and
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ProsecutorFlourish\&theme=tokyonight\&hide_border=true)
-# 🏆 GitHub Achievements
-![GitHub Achievements](https://github-profile-achievements.vercel.app/api?username=ProsecutorFlourish&theme=tokyonight)
 
 
 ---
