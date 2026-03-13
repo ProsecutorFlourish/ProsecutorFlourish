@@ -1,11 +1,8 @@
 # 👋 Hi there! 
 
 🚀 **Software Developer | Automation Enthusiast | Open‑Source Explorer**
-
 Welcome to my GitHub profile! I'm passionate about building tools, automating workflows, and experimenting with new technologies.
 I enjoy creating efficient solutions, learning modern development practices, and contributing to innovative projects.
-
----
 
 # 🚀 About Me
 
@@ -15,15 +12,9 @@ I enjoy creating efficient solutions, learning modern development practices, and
 * 📚 Constantly learning **new programming languages and frameworks**
 * 🧠 Always exploring ways to **optimize and automate workflows**
 
----
-
 # 📊 GitHub Activity
 
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ProsecutorFlourish\&theme=tokyonight\&hide_border=true)
-
-
----
 
 # 🛠 Tech Stack
 
@@ -39,8 +30,6 @@ I enjoy creating efficient solutions, learning modern development practices, and
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
-
----
 
 # 🔥 Featured Projects
 
@@ -59,14 +48,9 @@ Small web-based tools and experiments built with modern technologies.
 ### 🛠 CLI Utilities
 
 Command-line tools that simplify daily development workflows.
-
----
-
 # 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ProsecutorFlourish\&theme=tokyo-night)
-
----
 
 # 🌱 Currently Learning
 
@@ -75,9 +59,4 @@ Command-line tools that simplify daily development workflows.
 * System design & scalable architectures
 * Automation pipelines
 
----
 
-# 📫 Connect With Me
-
-* GitHub: https://github.com/ProsecutorFlourish
-* Email: [your-email@example.com](mailto:your-email@example.com)
